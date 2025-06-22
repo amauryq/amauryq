@@ -4,4 +4,4 @@ I've been 20+ years in the IT industry with focus on Enterprise Integration and 
 
 I have a degree in Mathematical Cybernetics from the University of Havana, and I love automation. 
 
-🔭 I’m currently working as Site Reliability Engineer (SRE) at Ultimate Kronos Group (UKG), one of the indisputable leaders in HCM industry.
+🔭 I’m currently working as Staff Site Reliability Engineer at [Cribl](https://cribl.io/), the Data Engine for IT and Security.
